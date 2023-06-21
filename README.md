@@ -43,7 +43,7 @@ Next, if you don't have the AWS Amplify CLI installed, please follow the instruc
 
 Simply click on the link below:
 
-[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/aws-samples/amazon-rekognition-id-verification-sample-with-amplify)
+[![amplifybutton](https://oneclick.amplifyapp.com/button.svg)](https://console.aws.amazon.com/amplify/home#/deploy?repo=https://github.com/naveed-a-sattar/amazon-rekognition-id-verification-sample-with-amplify)
 
 
 ## Deploying sample app using the CLI
@@ -51,7 +51,7 @@ Simply click on the link below:
 1. Clone the git repo on your local machine
 
 ```
-git clone https://github.com/aws-samples/amazon-rekognition-id-verification-sample-with-amplify
+git clone https://github.com/naveed-a-sattar/amazon-rekognition-id-verification-sample-with-amplify
 ```
 
 2. Switch to the cloned directory and run `npm update`
